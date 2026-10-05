@@ -1,3 +1,3 @@
-{"build": 9, "version": "9 (2026-10-05, 6273f14)", "file": "plotter-box-update.pbu",
- "sha256": "b28350f04736ccc63eefdcc9785268ceafd4ac3e57d7c73c7605a3c17071d1cb", "size": 71680, "date": "2026-10-05",
- "notes": "Add an Updates button to the home screen"}
+{"build": 10, "version": "10 (2026-10-05, 25aa4b7)", "file": "plotter-box-update.pbu",
+ "sha256": "62b3641643ebef6143067430bfaced00f5e8a366db35787e825a9448f4d597b5", "size": 71680, "date": "2026-10-05",
+ "notes": "Fix preview orientation; learn cut times from real cuts"}
